@@ -7,6 +7,8 @@
     }
     .nike__item{
         margin-top: 30px;
+        margin-left:auto;
+        margin-right:auto;
     }
     .nike__content{
         margin-left: auto;
@@ -39,7 +41,7 @@
     }
 }
 @media (max-width:570px ){
-.nikew__content{
+.nike__content{
     width: 100%;
 }
 .nike__content>img{
